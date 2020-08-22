@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Regain:regain@regain-lru1r.gcp.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "95fae3c026242af416c5",
+  "githubSecret": "e1720e93334ae4029022fa9c3fab166bc9e9907a"
+}
